@@ -1,2 +1,0 @@
-# RathiSubmission
-Created with CodeSandbox
